@@ -45,7 +45,7 @@ Building three software components:
 
 3. **HuffmanQuery:** Implement a GraphQL API query method that takes an input string and returns a response type `GetHuffmanEncodingResponse(string InputString, ICollection<HuffmanCode> HuffmanCodes)` encompassing the input string, and a sorted collection of `HuffmanCode(char Character, int Code)` from the previous method.
 
-Going head-to-head, the software engineer was able to complete all three components and get them all to pass the unit tests found under `./Tests/`.
+Going head-to-head, the software engineer was able to complete all three components and get them all to pass the unit tests found under `./Tests/`. The LLM model performed well on the first and third components, but was unable to meet the requirements and pass tests for the second component.
 
 All AI generated code can be found under `./MyProject/Application/AIGeneratedCode/` and `./MyProject/API/AIGeneratedCode/`.
 
