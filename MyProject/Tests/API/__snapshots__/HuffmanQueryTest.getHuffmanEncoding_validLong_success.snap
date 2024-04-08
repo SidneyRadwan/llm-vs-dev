@@ -1,0 +1,157 @@
+﻿{
+  "data": {
+    "getHuffmanEncoding": {
+      "getHuffmanEncodingResponse": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Orci a scelerisque purus semper Elit ut aliquam purus sit amet luctus venenatis lectus magna Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat Feugiat sed lectus vestibulum mattis ullamcorper velit Diam ut venenatis tellus in metus vulputate eu scelerisque felis Aenean sed adipiscing diam donec Arcu dui vivamus arcu felis Varius sit amet mattis vulputate Fames ac turpis egestas sed tempus Proin fermentum leo vel orci porta non Facilisis volutpat est velit egestas dui id ornare arcu Ac auctor augue mauris augue neque gravida in fermentum et Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod Tincidunt augue interdum velit euismod Arcu dictum varius duis at consectetur lorem donec massa sapien Tincidunt eget nullam non nisi est sit Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu Viverra nam libero justo laoreet sit Massa enim nec dui nunc mattis enim Amet mattis vulputate enim nulla Pulvinar neque laoreet suspendisse interdum consectetur Velit sed ullamcorper morbi tincidunt ornare massa eget egestas purus Faucibus in ornare quam viverra orci sagittis eu volutpat odio Dui accumsan sit amet nulla facilisi morbi tempus Molestie a iaculis at erat pellentesque Tortor pretium viverra suspendisse potenti nullam ac Augue interdum velit euismod in Vitae congue mauris rhoncus aenean vel elit scelerisque Porttitor lacus luctus accumsan tortor Massa eget egestas purus viverra accumsan in nisl nisi scelerisque Massa tempor nec feugiat nisl pretium Mi proin sed libero enim sed faucibus turpis Pellentesque dignissim enim sit amet venenatis urna cursus eget Auctor neque vitae tempus quam pellentesque nec Consequat interdum varius sit amet mattis vulputate enim nulla Parturient montes nascetur ridiculus mus mauris vitae Suspendisse potenti nullam ac tortor Eu turpis egestas pretium aenean pharetra magna ac Enim sed faucibus turpis in eu mi bibendum neque egestas Nulla porttitor massa id neque aliquam vestibulum morbi blandit Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo Eu scelerisque felis imperdiet proin fermentum leo Etiam tempor orci eu lobortis elementum nibh tellus molestie Mauris rhoncus aenean vel elit scelerisque mauris pellentesque Nullam eget felis eget nunc lobortis mattis aliquam Sit amet commodo nulla facilisi nullam vehicula Elit ullamcorper dignissim cras tincidunt lobortis feugiat Imperdiet dui accumsan sit amet Non arcu risus quis varius Consequat semper viverra nam libero justo laoreet sit amet cursus Sit amet porttitor eget dolor morbi non arcu risus Id diam vel quam elementum pulvinar etiam non quam Egestas diam in arcu cursus euismod quis viverra",
+      "huffmanCodes": [
+        {
+          "character": " ",
+          "code": "110"
+        },
+        {
+          "character": "A",
+          "code": "00101000"
+        },
+        {
+          "character": "C",
+          "code": "0111000111"
+        },
+        {
+          "character": "D",
+          "code": "11101101101"
+        },
+        {
+          "character": "E",
+          "code": "111011010"
+        },
+        {
+          "character": "F",
+          "code": "1110110111"
+        },
+        {
+          "character": "I",
+          "code": "0111000000"
+        },
+        {
+          "character": "L",
+          "code": "01110001100"
+        },
+        {
+          "character": "M",
+          "code": "111011000"
+        },
+        {
+          "character": "N",
+          "code": "1110110010"
+        },
+        {
+          "character": "O",
+          "code": "01110001101"
+        },
+        {
+          "character": "P",
+          "code": "011100001"
+        },
+        {
+          "character": "R",
+          "code": "11101101100"
+        },
+        {
+          "character": "S",
+          "code": "1110110011"
+        },
+        {
+          "character": "T",
+          "code": "001010010"
+        },
+        {
+          "character": "V",
+          "code": "001010011"
+        },
+        {
+          "character": "a",
+          "code": "1000"
+        },
+        {
+          "character": "b",
+          "code": "0111001"
+        },
+        {
+          "character": "c",
+          "code": "01111"
+        },
+        {
+          "character": "d",
+          "code": "00100"
+        },
+        {
+          "character": "e",
+          "code": "010"
+        },
+        {
+          "character": "f",
+          "code": "0010101"
+        },
+        {
+          "character": "g",
+          "code": "001011"
+        },
+        {
+          "character": "h",
+          "code": "011100010"
+        },
+        {
+          "character": "i",
+          "code": "1111"
+        },
+        {
+          "character": "j",
+          "code": "0111000001"
+        },
+        {
+          "character": "l",
+          "code": "0000"
+        },
+        {
+          "character": "m",
+          "code": "0001"
+        },
+        {
+          "character": "n",
+          "code": "0011"
+        },
+        {
+          "character": "o",
+          "code": "11100"
+        },
+        {
+          "character": "p",
+          "code": "111010"
+        },
+        {
+          "character": "q",
+          "code": "1110111"
+        },
+        {
+          "character": "r",
+          "code": "0110"
+        },
+        {
+          "character": "s",
+          "code": "1001"
+        },
+        {
+          "character": "t",
+          "code": "1010"
+        },
+        {
+          "character": "u",
+          "code": "1011"
+        },
+        {
+          "character": "v",
+          "code": "011101"
+        }
+      ]
+    }
+  }
+}

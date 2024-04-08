@@ -1,0 +1,21 @@
+﻿{
+  "data": {
+    "getHuffmanEncoding": {
+      "getHuffmanEncodingResponse": "abc",
+      "huffmanCodes": [
+        {
+          "character": "a",
+          "code": "10"
+        },
+        {
+          "character": "b",
+          "code": "11"
+        },
+        {
+          "character": "c",
+          "code": "0"
+        }
+      ]
+    }
+  }
+}
